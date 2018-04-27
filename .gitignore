@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/QuickTransform/v15
+/QuickTransform/bin/Debug
+/QuickTransform/obj/Debug
+/QuickTransform.Tests/bin/Debug
+/QuickTransform.Tests/obj/Debug
+*.user
